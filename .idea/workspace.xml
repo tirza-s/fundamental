@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66537f1e-90d9-448f-870b-39883017c258" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/conditional_statement/ConditionalStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingNomadFundamental/variable/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingNomadFundamental/variable/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingNomadFundamental/variable/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingNomadFundamental/variable/Variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Variables.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XAxnB6INxEC7PTlXRiDSth2kSs" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="oop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DependencyInjectionController">
+    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.encapsulation.animals.AnimalTester" />
+      <module name="CodingNomadFundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.encapsulation.animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarContoller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.inheritance.CarContoller" />
+      <module name="CodingNomadFundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DependencyInjectionController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.interfaces.DependencyInjectionController" />
+      <module name="CodingNomadFundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverideDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.encapsulation.vehicles.OverideDemo" />
+      <module name="CodingNomadFundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.encapsulation.vehicles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestaurantTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.encapsulation.restaurants.RestaurantTester" />
+      <module name="CodingNomadFundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.encapsulation.restaurants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DependencyInjectionController" />
+        <item itemvalue="Application.CarContoller" />
+        <item itemvalue="Application.AnimalTester" />
+        <item itemvalue="Application.OverideDemo" />
+        <item itemvalue="Application.RestaurantTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66537f1e-90d9-448f-870b-39883017c258" name="Changes" comment="" />
+      <created>1698085850775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698085850775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/TestArray.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/TestArray.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/AnimalsArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/ForEachLoop.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pass_by_value/PassByVal.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
