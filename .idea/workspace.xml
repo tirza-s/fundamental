@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66537f1e-90d9-448f-870b-39883017c258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/conditional_statement/ConditionalStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNomadFundamental/variable/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingNomadFundamental/variable/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingNomadFundamental/variable/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingNomadFundamental/variable/Variables.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/static_nonstatic/StaticController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +33,23 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/tirzasamosir/IdeaProjects/CodingNomadFundamental",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DependencyInjectionController">
+  <component name="RunManager" selected="Application.ThrowingExceptionExample">
     <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.encapsulation.animals.AnimalTester" />
       <module name="CodingNomadFundamental" />
@@ -87,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverideDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.encapsulation.vehicles.OverideDemo" />
+    <configuration name="StaticController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.static_nonstatic.StaticController" />
       <module name="CodingNomadFundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.encapsulation.vehicles.*" />
+          <option name="PATTERN" value="oops.static_nonstatic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestaurantTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.encapsulation.restaurants.RestaurantTester" />
+    <configuration name="ThrowingExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ThrowingExceptionExample" />
       <module name="CodingNomadFundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.encapsulation.restaurants.*" />
+          <option name="PATTERN" value="exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThrowingExceptionExample" />
+        <item itemvalue="Application.StaticController" />
         <item itemvalue="Application.DependencyInjectionController" />
         <item itemvalue="Application.CarContoller" />
         <item itemvalue="Application.AnimalTester" />
-        <item itemvalue="Application.OverideDemo" />
-        <item itemvalue="Application.RestaurantTester" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +135,81 @@
       <updated>1698085850775</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="fa0a6a64-4825-4a4c-ae4d-4cac2fe3fcd3">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/tirzasamosir/IdeaProjects/CodingNomadFundamental/src/oops" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="fa0a6a64-4825-4a4c-ae4d-4cac2fe3fcd3" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -164,5 +241,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
