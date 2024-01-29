@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66537f1e-90d9-448f-870b-39883017c258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oops/static_nonstatic/StaticController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/LiquorStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/UnderAgeException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,20 +49,7 @@
       <recent name="oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThrowingExceptionExample">
-    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.encapsulation.animals.AnimalTester" />
-      <module name="CodingNomadFundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.encapsulation.animals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LiquorStore">
     <configuration name="CarContoller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.inheritance.CarContoller" />
       <module name="CodingNomadFundamental" />
@@ -82,6 +69,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oops.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiquorStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.LiquorStore" />
+      <module name="CodingNomadFundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LiquorStore" />
         <item itemvalue="Application.ThrowingExceptionExample" />
         <item itemvalue="Application.StaticController" />
         <item itemvalue="Application.DependencyInjectionController" />
         <item itemvalue="Application.CarContoller" />
-        <item itemvalue="Application.AnimalTester" />
       </list>
     </recent_temporary>
   </component>
